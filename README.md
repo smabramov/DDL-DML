@@ -48,10 +48,21 @@ ALTER USER 'sys_test'@'localhost' IDENTIFIED WITH mysql_native_password BY 'pass
 ![mysql3](https://github.com/smabramov/DDL-DML/blob/857a91bf98c5fc478f42a6a7106fde528b1c5fde/jpg/mysql3.jpg)
 
 
+'''
+
 mysql -u sys_temp -p
+
+
 SHOW DATABASE;
+
+
 USE sakila;
+
+
 SHOW TABLES;
+
+
+'''
 
 
 
