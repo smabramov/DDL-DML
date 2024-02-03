@@ -28,6 +28,32 @@ ALTER USER 'sys_test'@'localhost' IDENTIFIED WITH mysql_native_password BY 'pass
 
 Результатом работы должны быть скриншоты обозначенных заданий, а также простыня со всеми запросами.
 
+---
+
+![mysql1](https://github.com/smabramov/DDL-DML/blob/857a91bf98c5fc478f42a6a7106fde528b1c5fde/jpg/mysql1.jpg)
+
+
+![mysql](https://github.com/smabramov/DDL-DML/blob/857a91bf98c5fc478f42a6a7106fde528b1c5fde/jpg/mysql.jpg)
+
+
+![mysql_user](https://github.com/smabramov/DDL-DML/blob/857a91bf98c5fc478f42a6a7106fde528b1c5fde/jpg/mysql_user.jpg)
+
+
+![mysql_user1](https://github.com/smabramov/DDL-DML/blob/857a91bf98c5fc478f42a6a7106fde528b1c5fde/jpg/mysql_user1.jpg)
+
+
+![mysql2](https://github.com/smabramov/DDL-DML/blob/857a91bf98c5fc478f42a6a7106fde528b1c5fde/jpg/mysql2.jpg)
+
+
+![mysql3](https://github.com/smabramov/DDL-DML/blob/857a91bf98c5fc478f42a6a7106fde528b1c5fde/jpg/mysql3.jpg)
+
+
+mysql -u sys_temp -p
+SHOW DATABASE;
+USE sakila;
+SHOW TABLES;
+
+
 
 
 
@@ -37,3 +63,5 @@ ALTER USER 'sys_test'@'localhost' IDENTIFIED WITH mysql_native_password BY 'pass
 ### Задание 2
 
 Составьте таблицу, используя любой текстовый редактор или Excel, в которой должно быть два столбца: в первом должны быть названия таблиц восстановленной базы, во втором названия первичных ключей этих таблиц. Пример: (скриншот/текст)
+
+![mysql4](https://github.com/smabramov/DDL-DML/blob/857a91bf98c5fc478f42a6a7106fde528b1c5fde/jpg/mysql4.jpg)
