@@ -75,4 +75,4 @@ SHOW TABLES;
 
 Составьте таблицу, используя любой текстовый редактор или Excel, в которой должно быть два столбца: в первом должны быть названия таблиц восстановленной базы, во втором названия первичных ключей этих таблиц. Пример: (скриншот/текст)
 
-![mysql4](https://github.com/smabramov/DDL-DML/blob/857a91bf98c5fc478f42a6a7106fde528b1c5fde/jpg/mysql4.jpg)
+![mysql5](https://github.com/smabramov/DDL-DML/blob/1c1ee7c8bddea9aa425097e6e25faf024b3cafd6/jpg/mysql5.jpg)
